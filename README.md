@@ -6,8 +6,7 @@
 
 ##  Competition Overview
 
-This Kaggle competition challenges you to predict the sale price of residential homes in Ames, Iowa, using over 79 explanatory variables :contentReference[oaicite:1]{index=1}. It's a great opportunity to practice feature engineering, handling missing data, and building prediction models like random forests and gradient boosting :contentReference[oaicite:2]{index=2}.
-
+This Kaggle competition challenges you to predict the sale price of residential homes in Ames, Iowa, using over 79 explanatory variables with a train set of ~1500 observations. It's a great opportunity to practice feature engineering, building prediction models and explaining them and their results.
 ---
 
 
